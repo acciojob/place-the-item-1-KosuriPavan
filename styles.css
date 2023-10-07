@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content: space-between;
+	flex-wrap:wrap;
+}
+.a{
+	font-size:60px;
+	height:100px;
+	width:100px;
+	background-color: green ;
+}
+.b{
+	font-size:60px;
+	height:100px;
+	width:100px;
+	background-color: red ;
+}
+.c{
+	font-size:60px;
+	height:100px;
+	width:100px;
+	background-color:blue;
+}
